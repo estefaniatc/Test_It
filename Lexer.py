@@ -35,7 +35,6 @@ tokens = [
     'OPENCURLY',
     'CLOSECURLY'
     'COLON'
-
 ] + list(reserved.values())
 
 #rules for regular expressions

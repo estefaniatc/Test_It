@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="391e8e0f-f401-4d55-a5f9-5db65bbdd553" name="Default Changelist" comment="">
+
       <change afterPath="$PROJECT_DIR$/TestingTools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lexer.py" afterDir="false" />
@@ -92,9 +93,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="21" />
-    <option name="width" value="1281" />
-    <option name="height" value="777" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,6 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554519587678</updated>
       <workItem from="1555386946291" duration="444000" />
+      <workItem from="1555443347711" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="intrp">
       <created>1555441094880</created>
