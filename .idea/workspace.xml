@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391e8e0f-f401-4d55-a5f9-5db65bbdd553" name="Default Changelist" comment="" />
+    <list default="true" id="391e8e0f-f401-4d55-a5f9-5db65bbdd553" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lexer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="300">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -77,9 +79,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="21" />
-    <option name="width" value="1281" />
-    <option name="height" value="777" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,6 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554519587678</updated>
       <workItem from="1555386946291" duration="444000" />
+      <workItem from="1555443347711" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="intrp">
       <created>1555441094880</created>
@@ -143,12 +145,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="444000" />
+    <option name="totallyTimeSpent" value="777000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="720" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24324325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24717286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" weight="0.3298887" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -160,7 +162,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.2978395" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.29726028" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -181,8 +183,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lexer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="300">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
