@@ -32,6 +32,8 @@ tokens = [
     'CLOSEPAR',
     'OPENBRACKET',
     'CLOSEBRACKET',
+    'OPENCURLY',
+    'CLOSECURLY'
     'COLON'
 
 ] + list(reserved.values())
@@ -45,6 +47,10 @@ t_CLOSEPAR= r'\)'
 #brackets
 t_OPENBRACKET= r'\['
 t_CLOSEBRACKET= r'\]'
+
+#curly
+t_OPENCURLY= r'\{'
+t_CLOSECURLY= r'\}'
 
 #colon
 t_COLON= r'\;'
